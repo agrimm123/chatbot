@@ -1,4 +1,23 @@
 TASK:
 
+-Flask
+-Use-Case-Diagramm
+
 HTML:
-dauerhafter Text, dass mit "Exit" beendet werden kann
+- dauerhafter Text, dass mit "Exit" beendet werden kann
+- evlt. auf Server aufsetzen, sodass aus Web erreichbar
+  - Domain verbinden
+
+Python Chatbot:
+- Auskommentieren
+- evlt. Tkinter einbinden
+
+Manual:
+- Latex schreiben
+
+SLA:
+- noch mal anhand der Vorlage anschauen und bearbeiten
+
+
+-vernünftiges Github Repository bauen und gestalten
+
